@@ -1,7 +1,8 @@
 public class HelloCoder {
   public static void main(String[] args) {
     System.out.println("    ∧  ∧      ----------");
-    System.out.println("   (｡･ω･｡).  <Hello Coder>");
+    System.out.println("   (｡･ω･｡).  <Hello Coder>"); //a simple picture
+    System.out.println("            < Yunru Chen>");// yunru is my name
     System.out.println("              ----------");
   }
 }
